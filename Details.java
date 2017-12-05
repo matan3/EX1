@@ -1,7 +1,7 @@
 
 public class Details {
 	
-	String ct, time,  lat, lon, alt,  ID;
+	String count, time,  lat, lon, alt,  ID;
 		
 	public Details(String time,String lat,String lon,String alt,String ID,String count) {
 		this.lat = lat;
