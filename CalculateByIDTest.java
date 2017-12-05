@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class CalculateByIDTest {
+public class CalculateByIDTest {0000
 
 	@Test
 	public void test() {
